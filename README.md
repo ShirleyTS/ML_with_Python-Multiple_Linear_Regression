@@ -11,4 +11,4 @@ Dataset source: https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6
 
 The task: create a multiple linear regression model to predict CO2 emissions of unobserved cars based on selected features.
 
-See how I did it in the wiki page: TBC
+See how I did it in the wiki page: https://github.com/ShirleyTS/ML_with_Python-Multiple_Linear_Regression/wiki/ML_with_Python%E2%80%90Multiple_Linear_Regression
